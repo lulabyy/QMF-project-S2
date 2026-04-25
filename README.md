@@ -1,6 +1,6 @@
 # Counterfactual Inflation Analysis: What If Ukraine Had Been Part of the Euro Area?
 **Quantitative Methods in Finance | Final Exam 2025–2026 | Master 2 Finance Technology Data**
-| Université Paris 1 Panthéon-Sorbonne
+| Université Paris 1 Panthéon-Sorbonne | Flavia Sadhra
 
 ---
 
